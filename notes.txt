@@ -1,0 +1,29 @@
+// Delete node_modules if exists
+
+// Open PowerShell as administrator
+Set-ExecutionPolicy RemoteSigned
+
+yarn install
+
+yarn serve
+
+
+
+5 Easy Ways To Pass Info To Vue Components!
+https://www.youtube.com/watch?v=rKWSj3zfBAs
+
+- Props
+- Provide (parent) / Inject (child)
+- this.$refs
+- Vue.prototype
+- Bonus 
+- Vuex
+
+.$parent
+.$emit
+
+ALT + Z for terminal word wrapping
+
+// Test dist folder
+npm install -g serve
+serve -s dist
