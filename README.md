@@ -1,5 +1,5 @@
 # VueVuetifyJsonAxios
-### Vue using Axios reading local JSON file (loaded only once), presented as a list of Vuetify cards (can bee filtered) and a details component.
+### Vue using Axios reading local JSON file (loaded only once with sessionStorage), presented as a list of Vuetify cards (can bee filtered) and a details component.
 
 <br />
 
